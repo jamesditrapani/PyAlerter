@@ -33,7 +33,7 @@ alert_data = # Any other data you wish to pass
 ![Example](https://i.imgur.com/RifVONK.png)
 
 ```python
-from python_alerter import alerter
+from PyAlerter import alerter
 
 email_to = 'alerts@domain.com'
 email_from = 'root@domain.com'
