@@ -1,7 +1,7 @@
 # PyAlerter
 
 ## About
-Basic Python module to send alerts using local SMTP relay by pass data into pre defined variables. Currently, this script expects your SMTP relay to be running on localhost:25.
+Basic Python module to send alerts using local SMTP relay by passing data into pre defined variables. Currently, this script expects your SMTP relay to be running on localhost:25.
 
 ## Usage
 Import module to Python script using:
