@@ -6,7 +6,7 @@ Basic Python module to send alerts using local SMTP relay by passing data into p
 ## Usage
 Import module to Python script using:
 ```python
-from PyAlerter import alerter
+from python_alerter import alerter
 ```
 
 Execute using:
